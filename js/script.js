@@ -3,8 +3,10 @@
 //****************** SERIOUSLY TEST USING console.log()!!! ******************
 
 $(document).ready(function(){
-  
-  <P hey</P>
-  
-  
+$("submit").click(function() {
+ var input=$("#input").val(input);
+ alert(input);
+
+
+});
 });
